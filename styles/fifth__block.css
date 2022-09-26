@@ -1,0 +1,32 @@
+.fifth__block {
+    width: 100%;
+    height: 200px;
+}
+
+.fifth__block__inner {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    width: 100%;
+    height: inherit;
+}
+
+.fifth__block__title {
+
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 140%;
+    
+    text-align: center;
+
+    align-items: center;
+}
+
+span:first-child    {
+    margin-right: 45px;
+}
+
+span:last-child {
+    margin-left: 45px;
+}

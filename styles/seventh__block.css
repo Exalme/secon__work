@@ -1,0 +1,76 @@
+.seventh__block {
+    margin-top: 400px;
+
+    width: 100%;
+    height: 550px;
+
+    color: #FFF;
+
+    font-family: 'El Messiri', sans-serif;
+}
+
+.seventh__block__title__inner {
+    width: 100%;
+    height: 100px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.seventh__block__title {
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 140%;
+
+    text-align: center;
+
+    font-family: 'El Messiri', sans-serif;
+}
+.seventh__block__inner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card   {
+    width: 466px;
+    height: 600px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    margin-top: 100px;
+}
+
+.title__and__text {
+    width: 466px;
+    height: 255px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+
+}
+.seventh__title {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 140%;
+}
+.seventh__text {
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 140%;
+}
+.seventh__img {
+    width: 466px;
+    height: 250px;
+
+    background-image: url(../images/seventh__bg.png);
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    border-radius: 10px;
+}

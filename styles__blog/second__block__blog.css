@@ -1,0 +1,25 @@
+.second__block__news {
+    margin-top: 80px;
+
+    width: 100%;
+    height: 10vh;
+}
+
+.news__title__inner {
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.news__title {
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 140%;
+
+
+    text-align: center;
+}
+

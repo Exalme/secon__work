@@ -1,0 +1,31 @@
+.rev__slider {
+    width: 65%;
+    height: 299px;
+
+    margin: 0 auto;
+}
+
+.slide  {
+    border: 1px solid #018ABE;
+
+    background: #018ABE;
+    border-radius: 10px;
+
+    padding: 50px 60px;
+
+    margin-left: 50px;
+}
+.name {
+    font-family: 'Proxima Nova';
+
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 140%;
+
+    padding-bottom: 20px;
+}
+.text {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 140%;
+}
